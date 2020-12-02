@@ -1,1 +1,2 @@
-nums =: [: ". [: > [: cutopen [: 1!:1 <
+lines =: [: cutopen [: 1!:1 <
+nums =: [: ".@> lines
